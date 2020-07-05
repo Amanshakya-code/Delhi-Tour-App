@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/photoImageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                />
+
+            <TextView
+                android:id="@+id/nameTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:drawableStart="@drawable/ic_verified_user_blue_24dp"
+                style="@style/locationTitle"
+                android:drawableLeft="@drawable/ic_verified_user_blue_24dp" />
+
+            <TextView
+                android:id="@+id/descriptionTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                style="@style/locationDescription"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/star_icon"
+                android:layout_marginLeft="9dp"
+                android:layout_marginBottom="8dp"
+                />
+
+            <TextView
+                android:id="@+id/addressTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:autoLink="web|map"
+                android:drawableLeft="@drawable/ic_location_on_black_24dp"
+                style="@style/locationAddressSchedulePricePhone"/>
+
+            <TextView
+                android:id="@+id/scheduleTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:drawableLeft="@drawable/ic_access_time_black_24dp"
+                style="@style/locationAddressSchedulePricePhone"/>
+
+            <TextView
+                android:id="@+id/priceTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:drawableLeft="@drawable/ic_attach_money_black_24dp"
+                style="@style/locationAddressSchedulePricePhone"/>
+
+            <TextView
+                android:id="@+id/phoneTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:autoLink="phone"
+                android:drawableLeft="@drawable/ic_local_phone_green_24dp"
+                style="@style/locationAddressSchedulePricePhone"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/email_name"
+                android:text=""
+                android:autoLink="web"
+                style="@style/locationAddressSchedulePricePhone"
+                android:drawableLeft="@drawable/ic_website_blue_24dp"
+                />
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

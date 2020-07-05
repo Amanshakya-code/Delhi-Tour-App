@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">DELHI TOUR</string>
+    <string name="category_places">PLACES</string>
+    <string name="category_hospital">HOSPITAL</string>
+    <string name="category_markets">MARKETS</string>
+    <string name="category_outlets">OUTLETS</string>
+    <string name="outlet_gulati_name">Gulati Restaurant</string>
+    <string name="outlet_gulati_description">Longstanding choice for Indian, Mughlai and  tandoori cooking, with a lunchtime buffet.</string>
+    <string name="outlet_gulati_address">https://www.google.com/maps/place/Pandara+Market/@28.607889,77.2276989,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2db5af6a6a7:0xc68edce63b20b3f8!8m2!3d28.607889!4d77.2298876</string>
+    <string name="outlet_gulati_phone">Phone: 011 2378 2949</string>
+    <string name="outlet_gulati_schedule">12AM TO 11:45PM (all week days)</string>
+    <string name="outlet_gulati_price">minimium $20 (per person)</string>
+    <string name="outlet_indian_name">Indian Accent</string>
+    <string name="outlet_indian_description">Contemporary twists on Indian cuisine served at this refined restaurant with glass walls and ceilings.</string>
+    <string name="outlet_indian_address">https://www.google.com/maps/place/Indian+Accent/@28.5918383,77.2360284,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd309eebed77:0xfd133b52e7612c26!8m2!3d28.5918336!4d77.2382224</string>
+    <string name="outlet_indian_phone">Phone: 098711 17968</string>
+    <string name="outlet_indian_schedule">12–2:30pm, 7–10:30pm (all week days)</string>
+    <string name="outlet_indian_price">min. $30</string>
+    <string name="outlet_spice_name">The Spice Route</string>
+    <string name="outlet_spice_description">Luxury hotel\'s elegantly decorated South East Asian restaurant filled with art from the region.</string>
+    <string name="outlet_spice_address">https://www.google.com/maps/place/The+Spice+Route/@28.6254386,77.2158101,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd3565ee2c55:0x2ec17e6c197da51b!8m2!3d28.6254339!4d77.2180041</string>
+    <string name="outlet_spice_phone">Phone: 011 4111 6605</string>
+    <string name="outlet_spice_schedule">Mo-Su 12:30–2:45pm, 7–11:45pm</string>
+    <string name="outlet_spice_price">min. $50 (per person)</string>
+    <string name="outlet_tamra_name">Tamra Restaurant</string>
+    <string name="outlet_tamra_description">Sizable, upscale hotel restaurant with unique, smart decor offering a global buffet and cocktails.</string>
+    <string name="outlet_tamra_address">https://www.google.com/maps/place/Tamra+Restaurant/@28.6209647,77.215968,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd375c42903b:0xee81c91f1df72220!8m2!3d28.62096!4d77.218162</string>
+    <string name="outlet_tamra_phone">Phone: 011 4119 1010</string>
+    <string name="outlet_tamra_schedule">Mo-Su 6:30am–11:45pm</string>
+    <string name="outlet_tamra_price">min. $30 (per person)</string>
+    <string name="outlet_moti_name">Moti Mahal Restaurant</string>
+    <string name="outlet_moti_description">₹₹ North Indian restaurant</string>
+    <string name="outlet_moti_address">https://www.google.com/maps/place/Moti+Mahal+Restaurant/@28.646497,77.2379264,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd2076d5d8a7:0xfc425590701a73a6!8m2!3d28.6464923!4d77.2401204</string>
+    <string name="outlet_moti_phone">Phone: 011 4221 6605</string>
+    <string name="outlet_moti_schedule">Mo-Su 12pm–12am</string>
+    <string name="outlet_moti_price">min. $100</string>
+    <string name="outlet_shang_name">Shang Palace</string>
+    <string name="outlet_shang_description">Lavish, contemporary hotel dining room with chandeliers and a menu of regional Chinese offerings.</string>
+    <string name="outlet_shang_address">https://www.google.com/maps/place/Shang+Palace/@28.6209647,77.215968,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2ca845f171b:0x8669cd6f1aae4774!8m2!3d28.62096!4d77.218162</string>
+    <string name="outlet_shang_phone">Phone: 011 4119 1040</string>
+    <string name="outlet_shang_schedule">Mo-Su 12:30–2:45pm, 7–11:45pm</string>
+    <string name="outlet_shang_price">min. $50</string>
+    <string name="outlet_sorrento_name">Sorrento</string>
+    <string name="outlet_sorrento_description">High-end hotel\'s refined Italian restaurant with a wood-fired oven and white wall tiling.</string>
+    <string name="outlet_sorrento_address">https://www.google.com/maps/place/Sorrento/@28.6209647,77.215968,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2ca845216ab:0x344160d2b5aca5a4!8m2!3d28.62096!4d77.218162</string>
+    <string name="outlet_sorrento_phone">Phone: 011 4119 1040</string>
+    <string name="outlet_sorrento_schedule">Mo-Su 12:30–2:45pm, 7–11:45pm</string>
+    <string name="outlet_sorrento_price">min. $40</string>
+    <string name="hospital_fortis_name">Fortis Hospital</string>
+    <string name="hospital_fortis_description">Fortis Healthcare Limited is a chain of hospitals, headquartered in India. Fortis started its health care operations from Mohali where first Fortis hospital was started. Later on, the hospital chain purchased the healthcare branch of Escorts group and increased its strength in various parts of the country.</string>
+    <string name="hospital_fortis_phone">number - +91 124 492 1041</string>
+    <string name="hospital_aiims_name">All India Institute Of Medical Sciences</string>
+    <string name="hospital_aiims_description">All India Institute of Medical Sciences, New Delhi is a medical school, hospital and public medical research university.AIIMS New Delhi is ranked 1 in India by the National Institutional Ranking Framework, ranked 1 in South Asia and 231 in the world in the category of Life Sciences and Medicine by QS WUR.</string>
+    <string name="hospital_aiims_phone">Telephone Numbers : 011-26588500, 26588700</string>
+    <string name="hospital_ganga_2">Sir Ganga Ram Hospital</string>
+    <string name="hospital_ganga_description">1. Sir Ganga Ram Hospital was founded in April 1951 inaugurated by the then Prime Minister of India Shri Jawahar Lal Nehru.\n
+2. SGRH is charitable character in Delhi in accordance with to the wishes of its founder, Sir Ganga Ram.\n 3. They fulfill this by the funds generated from the hospital services that is partially utilised for providing free health care and make 20% beds available total strength for admission of to indigenous and financially weaker section of the society.
+\n 4. Also the beds and all facilities boarding, lodging, investigations, medicine and operative procedures are free for the said group.
+\n 5. The hospital has a well-equipped and advanced infrastructure and techniques to provide wholesome and comprehensive care to their patients from various department of diagnosis and treatment, such as:
+First whole body CT Scan unit in Delhi,   Nephrology and Renal Transplantation,    Vascular,    Gastroenterology,   Minimal Access Surgery,   Urology,   Orthopaedics Surgery,   Paediatrics and Paediatric Surgery,   Surgical Gastroenterology,   Ophthalmology, In Vitro Fertilization Unit,   Homoeopathy,   Academics,   Genetics,   Cardiac Surgery</string>
+    <string name="hospital_ganga_pgone">Phone: 011 2575 0000</string>
+    <string name="hospital_max_4">Max Super Speciality Hospital</string>
+    <string name="hospital_max_discription">Max Super Speciality Hospital, Saket (a Unit of Devki Devi foundation) is one of the premier names in the healthcare world. A 500+ bedded facility offers treatment across all medical disciplines of Cardiac, Oncology (Medical, Surgical and Radiotherapy), Neurosciences, Obstetrics and Gynecology, Metabolic and Bariatric Surgery, Bone Marrow Transplant, Urology, Nephrology, Kidney Transplant, Aesthetics and Reconstructive Surgery, and other ancillary services.</string>
+    <string name="hospital_max_phone">Phone: 011 2651 5050</string>
+    <string name="market_khan_name">Khan Market</string>
+    <string name="market_khan_description">Khan Market, established in 1951, and named in honour of freedom fighter Khan Abdul Jabbar Khan, brother of Abdul Ghaffar Khan. It was ranked as the most expensive retail location in India in 2007. In 2019, it was rated as the world\'s 20th most expensive retail high street by real estate firm.</string>
+    <string name="market_khan_address">https://www.google.com/maps/place/Khan+Market/@28.6001601,77.2247648,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2e83abc927f:0x6601f4fde52a3898!8m2!3d28.6001554!4d77.2269588</string>
+    <string name="market_khan_schedule">Mo-Fr 10am–12am</string>
+    <string name="market_janpath_name">Janpath Market</string>
+    <string name="market_janpath_description">Janpath is such a beautiful representation of one of the most beautiful things about Delhi. From the Tibetan Market to the Gujarati Market, to the fancy stores, to the flea market and to the Central Cottage Industries Emporium, every corner in it offers an amazing shopping experience unlike any other. </string>
+    <string name="market_janpath_address">https://www.google.com/maps/place/Janpath+Market/@28.6290833,77.2165698,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd35732ff587:0xb3489e0fc930becf!8m2!3d28.6290786!4d77.2187638</string>
+    <string name="market_janpath_schedule">Mo-Su 11am–9pm</string>
+    <string name="market_karol_name">Karol Bagh Market</string>
+    <string name="market_karol_description">It is one of the New Delhi famous street market. Here so many product available in low price like designing product for home decor items leather items available in cheap rates there is so many shops for a products.jewellery for ladies. </string>
+    <string name="market_karol_address">https://www.google.com/maps/place/Karol+Bagh+Market/@28.6444519,77.186401,17z/data=!3m1!4b1!4m5!3m4!1s0x390d0298ac155555:0x749c37810173eab8!8m2!3d28.6444472!4d77.188595</string>
+    <string name="market_karol_schedule">10am–10pm CLOSED ON MONDAY</string>
+    <string name="market_chandni_name">Chandni Chowk</string>
+    <string name="market_chandni_description">Chandni Chowk Market, shopping in Delhi… the two will always go hand in hand. If you are shopping in Delhi, you will at some point end up in Chandni Chowk. Delhi’s oldest and busiest market, Chandni Chowk is defined by crowded streets and a thousand shops selling all kinds of stuff – clothes, electronics, books, furnishings… the list is endless. One of the grandest markets of its time, Chandni Chowk is dotted with havelis, kuchas and gallis telling the stories of an era gone by. Top that up with the historic Jama Masjid and the imposing Red Fort and you have a distinctive Delhi experience on your hands.</string>
+    <string name="market_chandni_address">https://www.google.com/maps/place/Chandni+Chowk,+New+Delhi,+Delhi/@28.6513932,77.2228611,15z/data=!3m1!4b1!4m5!3m4!1s0x390cfd1a88dcc559:0x24fa43c081dbe51!8m2!3d28.6505331!4d77.230337</string>
+    <string name="market_chandni_schedule">8am-9pm CLOSED ON MONDAY</string>
+    <string name="market_shankar_name">Shankar Market</string>
+    <string name="market_shankar_description">The market begins with Parashar Foods famous for its Rajma Chawal. It is a superb, economical joint which satisfies the hunger pangs of all the hurried office-goers in the vicinity at lunch hour. In spite of the rush at lunch hour, the lightning speed at which the service is rendered is something that you need to see for yourself!</string>
+    <string name="market_shankar_address">https://www.google.com/maps/place/Shankar+Market,+New+Delhi,+Delhi+110001/@28.63345,77.2207512,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd37315333e3:0xb0227df1dec95a44!8m2!3d28.6335701!4d77.2229116</string>
+    <string name="market_shankar_schedule">11 a.m. until 8.30 p.m. Closed Sundays.</string>
+    <string name="market_lajpat_name">Lajpat Nagar (Central Market)</string>
+    <string name="market_lajpat_description">The hectic Lajpat Nagar market provides an interesting glimpse into Indian culture. It\'s one of the oldest markets in India and is abuzz with middle-class Indian shoppers, all swarming around its roadside stalls and showrooms. Reasonably priced Indian kurti tops and salwaar kameez suits are popular items. Be sure to bargain hard! The market also has Mehendiwalas, who will apply beautiful henna designs to your hands with astonishing speed</string>
+    <string name="market_lajpat_address">https://www.google.com/maps/place/Central+Market,+Lajpat+Nagar+II,+Lajpat+Nagar,+New+Delhi,+Delhi+110024/@28.5691251,77.2395195,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce3ad433c4e2d:0x2d91b62c7d8bc3e0!8m2!3d28.569229!4d77.2417726</string>
+    <string name="market_lajpat_schedule">Daily except Mondays.</string>
+    <string name="market_book_name">Sunday Second-Hand Book Market</string>
+    <string name="market_book_description">Bibliophiles will be delighted by this book market, where thousands of new and secondhand books across all genres are piled up for sale at super cheap prices. If you really hunt around you might be able to pick up some first editions of famous books. Haggling is expected unless stated otherwise!</string>
+    <string name="market_book_address">https://www.google.com/maps/search/Sunday+Second-Hand+Book+Market/@28.5692625,77.1714904,12z/data=!3m1!4b1</string>
+    <string name="market_book_schedule">All day Sundays but get there by 9.30-10.30 a.m. for the best selection.</string>
+    <string name="market_chor_name">Chor Bazaar (Thieves Market)</string>
+    <string name="market_chor_description">Before heading to the Sunday book market drop by and browse the thieves market nearby. Most of the items are damaged, second-hand, stolen or surplus. Do be prepared for large crowds, and beware of getting pick-pocketed or groped. Unfortunately, fake Chinese goods are now being sold at this market too.</string>
+    <string name="market_chor_address">https://www.google.com/maps/place/Chor+Bazaar,+Mumbai,+Maharashtra/@18.9599981,72.8224732,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7ce3dfbbf9221:0x556b23b811e7f9eb!8m2!3d18.9605412!4d72.8251079</string>
+    <string name="market_chor_schedule">6 a.m. to 6 p.m. Sundays.</string>
+    <string name="market_gaffar_name">Gaffar Market</string>
+    <string name="market_gaffar_description">The market is dominated with mobile repair shops. Be it a cracked screen or a fried motherboard, your phone or tablet is undoubtedly gonna get resurrected. The market is famous for unoriginal parts for your beloved gadget (which cost a fraction of the price).</string>
+    <string name="market_gaffar_address">https://www.google.com/maps/search/Gaffar+Market/@28.6504868,77.1883294,17z/data=!3m1!4b1</string>
+    <string name="market_gaffar_schedule">Daily except Mondays.</string>
+    <string name="place_rashtrapati_title">Rashtrapati Bhavan</string>
+    <string name="place_rashtrapati_description">The Rashtrapati Bhavan is the official residence of the President of India located at the Western end of Rajpath in New Delhi, India. Rashtrapati Bhavan may refer to only the 340-room main building that has the president\'s official residence, including reception halls, guest rooms and offices, also called the mansion; it may also refer to the entire 130-hectare Presidential Estate that additionally includes huge presidential gardens, large open spaces, residences of bodyguards and staff, stables, other offices and utilities within its perimeter walls. </string>
+    <string name="place_rashtrapati_address">https://www.google.com/maps/place/Rashtrapati+Bhavan/@28.6147652,77.1881947,15z/data=!4m8!1m2!2m1!1srashtrapati+bhavan+location!3m4!1s0x390ce2a99b6f9fa7:0x83a25e55f0af1c82!8m2!3d28.6143478!4d77.19943</string>
+    <string name="place_rashtrapati_phone">Customer support:-011 2301 5321</string>
+    <string name="place_rashtrapati_schedule">9:30–5:30. Saturday and Sunday closed.</string>
+    <string name="place_rashtrapati_price">Ticket Price Rs.50(per person)</string>
+    <string name="place_indiagate_name">India Gate</string>
+    <string name="place_indiagate_description">The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the "ceremonial axis" of New Delhi, formerly called Kingsway. It stands as a memorial to 70,000 soldiers of the British Indian Army who died in between 1914–1921 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and elsewhere in the Near and the Far East, and the third Anglo-Afghan War. 13,300 servicemen\'s names, including some soldiers and officers from the United Kingdom, are inscribed on the gate. Designed by Sir Edwin Lutyens, the gate evokes the architectural style of the triumphal arch such as the Arch of Constantine, in Rome, and is often compared to the Arc de Triomphe in Paris, and the Gateway of India in Mumbai. </string>
+    <string name="place_indiagate_address">https://www.google.com/maps/place/India+Gate/@28.6129167,77.2273157,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2daa9eb4d0b:0x717971125923e5d!8m2!3d28.612912!4d77.2295097</string>
+    <string name="place_indiagate_phone">Customer support:- 011 2336 5358</string>
+    <string name="place_indiagate_schedule">7:00am - 11:59pm Monday to Sunday</string>
+    <string name="place_indiagate_free">Rs. 200 (per person)</string>
+    <string name="place_minar_name">Qutub Minar</string>
+    <string name="place_minar_description">The Qutb Minar, also spelled as Qutub Minar and Qutab Minar, is a minaret and "victory tower" that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India. Qutb Minar was 73-metres tall before the final, fifth section was added after 1369. The tower tapers, and has a 14.3 metres base diameter, reducing to 2.7 metres at the top of the peak. It contains a spiral staircase of 379 steps. Its closest comparator is the 62-metre all-brick Minaret of Jam in Afghanistan, of c.1190, a decade or so before the probable start of the Delhi tower. The surfaces of both are elaborately decorated with inscriptions and geometric patterns; in Delhi the shaft is fluted with "superb stalactite bracketing under the balconies" at the top of each stage. In general minarets were slow to be used in India, and are often detached from the main mosque where they exist. </string>
+    <string name="place_minar_address">https://www.google.com/maps/place/Qutub+Minar/@28.5244801,77.1833266,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1e0667819b4f:0x834995f160759db8!8m2!3d28.5244754!4d77.1855206</string>
+    <string name="place_minar_phone">Customer support:-011-26643856 </string>
+    <string name="place_minar_schedule">6:00am to 6pm Always open</string>
+    <string name="place_qutb_minar_price">RS. 60 (per person)</string>
+    <string name="place_wonder_name">Waste to Wonder Theme Park</string>
+    <string name="place_wonder_description">The latest addition to Delhi\'s list of attractions, Waste to Wonder Park features the replicas of iconic seven wonders of the world, created from industrial and other waste. One of its kind theme park in the world. Located near Nizammudin Metro Station, it was inaugurated at Rajiv Gandhi Smriti Van.It is surprising to know that the idea Waste to Wonder Park was triggered by Kota\'s Seven Wonders Park after it was featured in the Bollywood movie "Badrinath ki Dulhania". The exceptional park is frequented by joggers and walkers. The South Delhi Municipal Corporation (SDMC) has harnessed wind and solar energy to light up the park rendering a breathtaking sight during sunset and night.</string>
+    <string name="place_wonder_address">https://www.google.com/maps/place/Waste+to+Wonder+Theme+Park/@28.591527,77.2549072,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce38352601261:0x135833a46d820c34!8m2!3d28.5915223!4d77.2571012</string>
+    <string name="place_wonder_phone">Customer support:- +81 3-3811-3015</string>
+    <string name="place_wonder_price">Rs. 100 (per person)</string>
+    <string name="place_wonder_schedule"> 11:00 AM - 11:00 PM Closed on Monday and National Holidays</string>
+    <string name="place_garden_name">The Garden of Five Senses</string>
+    <string name="place_garder_price">Free</string>
+    <string name="place_garden_description">The Garden of Five Senses is a park in Delhi, India. Spread over 20 acres, the park is located in Saidul Ajaib village, opposite Saket, near the Mehrauli heritage area. Designed by Delhi architect, Pradeep Sachdeva, the park was developed by Delhi Tourism and Transportation Development Corporation, Delhi at a cost of Rs 10.5 crore, over a period of three years and opened in February 2003. Partly built over a rocky terrain, the garden has various theme areas, including a section on the lines of Mughal Gardens, plus pools of water lilies, bamboo courts, herb gardens and solar energy park.</string>
+    <string name="place_garden_address">https://www.google.com/maps/place/The+Garden+of+Five+Senses/@28.5134077,77.1953287,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce1e3ea219915:0x14fc57988731271c!8m2!3d28.513403!4d77.1975227</string>
+    <string name="place_garden_phone">Customer Support:-+81 3-3581-2471</string>
+    <string name="place_garden_schedule">9AM-7PM All Days</string>
+    <string name="place_mandir_name">Shree Adya Katyayani Shaktipeeth Mandir</string>
+    <string name="place_chhatrpur">Free</string>
+    <string name="place_mandir_description">Chhatarpur Temple is located in a down town area in south of Delhi - Chhatarpur. This temple is dedicated to Goddess, Katyayani. The entire complex of the temple is spread over a wide area of 70 acres. It is located at Chhatarpur, on the southwestern outskirts of the city of Delhi and is just 4 km from Qutub Minar, off Mehrauli-Gurgaon road. The temple was established in 1974, by Baba Sant Nagpal ji, who died in 1998. His samadhi shrine lies in the premises of the Shiv-Gauri Nageshwar Mandir within the temple complex. This temple was considered as the biggest temple in India and second largest in the world, before the Akshardham Temple was created in 2005 in Delhi.</string>
+    <string name="place_mandir_address">https://www.google.com/maps/place/Shree+Adya+Katyayani+Shaktipeeth+Mandir/@28.5022547,77.17905,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1e3db550dba1:0x56e4d17f406c00a8!8m2!3d28.50225!4d77.181244</string>
+    <string name="place_mandir_phone">Customer SUpport:-+81 3-3378-1703</string>
+    <string name="place_mandir_schedule">Always open</string>
+    <string name="place_sri_name">Sri Bangla Sahib Gurudwara</string>
+    <string name="place_balashib_price">Free</string>
+    <string name="place_sri_description">Gurudwara Bangla Sahib is one of the most prominent Sikh gurdwara, or Sikh house of worship, in Delhi, India and known for its association with the eighth Sikh Guru, Guru Har Krishan, as well as the holly river inside its complex, known as the "Sarovar." It was first built as a small shrine by Sikh General Sardar Baghel Singh in 1783, who supervised the construction of nine Sikh shrines in Delhi in the same year, during the reign of Mughal Emperor, Shah Alam II. It is situated near Connaught Place, New Delhi on Baba Kharak Singh Marg and it is instantly recognisable by its golden dome and tall flagpole, Nishan Sahib. Located next to it is the Sacred Heart Cathedral.</string>
+    <string name="place_sri_address">https://www.google.com/maps/place/Sri+Bangla+Sahib+Gurudwara/@28.6260624,77.2071967,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd24f8845b47:0xc31d7dba181b70c9!8m2!3d28.6260577!4d77.2093907</string>
+    <string name="place_sri_phone">Customer Support:- +81 3-5321-1111</string>
+
+    <string name="place_sri_schedule">Always Open</string>
+</resources>
